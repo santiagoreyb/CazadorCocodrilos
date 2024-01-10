@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1621737833 source:c:\users\camil\onedrive - pontificia universidad javeriana\universidad\introducci”n a la programaci”n\proyecto\main.cpp
+	"librerias.h"
+	"funciones.h"
+
+1621444450 c:\users\camil\onedrive - pontificia universidad javeriana\universidad\introducci”n a la programaci”n\proyecto\librerias.h
+	<iostream>
+	<ctime>
+
+1621733270 c:\users\camil\onedrive - pontificia universidad javeriana\universidad\introducci”n a la programaci”n\proyecto\funciones.h
+	"librerias.h"
+
+1621877394 source:c:\users\hp all-in-one\onedrive - pontificia universidad javeriana\universidad\introducci”n a la programaci”n\proyecto\main.cpp
+	"librerias.h"
+	"funciones.h"
+
+1621444450 c:\users\hp all-in-one\onedrive - pontificia universidad javeriana\universidad\introducci”n a la programaci”n\proyecto\librerias.h
+	<iostream>
+	<ctime>
+
+1621733270 c:\users\hp all-in-one\onedrive - pontificia universidad javeriana\universidad\introducci”n a la programaci”n\proyecto\funciones.h
+	"librerias.h"
+
